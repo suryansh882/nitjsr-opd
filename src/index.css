@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html::-webkit-scrollbar{
+  display: none;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0;
+}
+
+a{
+  text-decoration: inherit !important;
+}
